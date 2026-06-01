@@ -2,7 +2,7 @@ import streamlit as st
 
 
 def home():
-    st.set_page_config(page_title="Cycling Analytics Platform Test", layout="wide", page_icon="🚴")
+    st.set_page_config(page_title="Cycling Analytics Platform", layout="wide", page_icon="🚴")
 
     st.title("🚴 Cycling Analytics Platform")
     st.markdown(
